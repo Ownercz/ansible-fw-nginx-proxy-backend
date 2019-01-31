@@ -1,6 +1,2 @@
-# PlayerAnalytics firewall entry
-Enables communication for Plan between our endpoints.
-
-VARS
-endpointOne  
-endpointLab
+# Nginx backend firewall entry
+Enables communication for backend and nginx reverse proxy.
